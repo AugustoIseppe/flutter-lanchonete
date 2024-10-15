@@ -1,0 +1,3 @@
+npm init -y | iniciar o projeto
+npm i express nodemon mysql cors | packages necessários
+npm start | start no servidor
