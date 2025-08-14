@@ -1,12 +1,12 @@
-<img width="965" alt="todasjuntas" src="https://github.com/user-attachments/assets/eb9ab704-da71-4e72-be51-21284b3659c0">
-
-# 🍔 Sistema de Lanchonete --- Flutter & Node.js
-
 ![Flutter](https://img.shields.io/badge/Flutter-3.4+-blue?logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-20+-green?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4.x-black?logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
+<img width="965" alt="todasjuntas" src="https://github.com/user-attachments/assets/eb9ab704-da71-4e72-be51-21284b3659c0">
+
+# 🍔 Sistema de Lanchonete --- Flutter & Node.js
 
 > Aplicativo de gerenciamento de pedidos e cardápio para lanchonetes,
 > com **Flutter** no frontend e **Node.js + Express + MySQL** no
